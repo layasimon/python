@@ -5,6 +5,6 @@ for num in range(start,last+1,1):
     print("your list is :",num)
 for num in range(start,last+1,1):
        if(num>0):
-print("the list of positive number is",num) 
+           print("the list of positive number is",num)
 
 
